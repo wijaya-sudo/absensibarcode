@@ -1,0 +1,6 @@
+{
+  "name": "SIKTA - Sistem Absensi & KTA Barcode",
+  "description": "Aplikasi absensi kehadiran dengan pemindai barcode KTA (Kartu Tanda Anggota), pembuat & cetak kartu KTA, serta rekap absensi.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
